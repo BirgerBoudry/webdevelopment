@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -40,6 +41,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Labo_4/PersonalHomepage",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +86,8 @@
       <workItem from="1760366455930" duration="9408000" />
       <workItem from="1760384357029" duration="574000" />
       <workItem from="1760450379123" duration="4982000" />
-      <workItem from="1761037836911" duration="3274000" />
+      <workItem from="1761037836911" duration="6556000" />
+      <workItem from="1761646657983" duration="4714000" />
     </task>
     <servers />
   </component>
