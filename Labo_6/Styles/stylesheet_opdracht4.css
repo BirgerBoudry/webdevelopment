@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1.1em;
+    background-color: silver;
+    color: darkblue;
+    margin: 20px;
+}
+
+h1 {
+    font-variant: small-caps;
+    background-color: red;
+    padding: 10px;
+    color: white;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    border: 2px solid darkblue;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.stippeltjesrand {
+    border: 1px dotted darkblue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
