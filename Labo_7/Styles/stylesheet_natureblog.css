@@ -1,0 +1,31 @@
+section{
+    margin: auto;
+    width: 95%;
+}
+nav {
+    background-color: #444444;
+}
+nav a {
+    color: #4cf572;
+    text-decoration: none;
+}
+#header {
+    font-size: 2em;
+    font-family: Helvetica, serif;
+    background-image: url("../images/header.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 10px;
+}
+article{
+    background: #eeeeee;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+article header{
+    text-decoration: underline;
+    font-size: 2em;
+    padding-top: 10px;
+    padding-left: 5px;
+}
