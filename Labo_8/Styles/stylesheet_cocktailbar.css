@@ -1,92 +1,100 @@
-body{
-    margin: 0;
-    padding: 0;
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
     font-size: 1.2em;
+    margin: 0 5% 5% 5%;
 }
 
-header img{
+h1,
+h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 1.8em;
+    /*1.2 * 1.5*/
+}
+
+h2 {
+    font-size: 1.56em;
+    /*1.2 * 1.3*/
+}
+
+a {
+    text-decoration: underline;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.sidebar a:hover {
+    color: brown;
+}
+
+header p img {
+    width: auto;
+    height: 300px;
+    margin-top: 0;
+}
+
+.sidebar>h1 {
+    color: black;
+}
+
+.sidebar>h2 {
+    color: red;
+}
+
+.content {
+    overflow: hidden;
+}
+
+.main-content {
+    float: left;
+    width: calc(70% - 20px);
+    margin: 10px;
+}
+
+.sidebar {
+    float: right;
+    width: calc(30% - 30px);
+    margin: 10px;
+    background: url('../images/cocktail.gif') repeat-x top center;
+    background-size: 10% auto;
+    padding: 5px;
+}
+
+p img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-#wrapper{
-    width: 95%;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-div > article{
-    width: 30%;
-    float: right;
-    font-family: Arial, serif;
-    border: 2px solid lightblue;
+.sidebar p,
+.sidebar h1,
+.sidebar h2 {
     text-align: center;
 }
 
-#header1{
-    color: #EF233C;
+#guarantee {
+    background-color: #a7cdce;
+    color: #444444;
+    padding: 20px;
+    border: dotted white 2px;
 }
 
-#header2{
-    color: #73AD21;
-}
-
-#header3{
-    color: #23c59a;
-}
-
-#header4{
-    color: black;
-}
-
-section article{
-    width: 70%;
-    font-family: Arial, serif;
-}
-
-h1{
-    color:  #007e7e;
-    font-family: Verdana, serif;
-    font-size: 150%;
-}
-
-h2{
-    color:  #007e7e;
-    font-family: Helvetica, serif;
-    font-size: 130%;
-}
-
-.hoverevent:hover{
-    background-color: #913318;
-}
-
-.width{
-    width: 95%;
-}
-
-#guarantee{
-    margin: 30px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    color: rgb(44, 44, 44);
-    background-color: #a7cece;
-    border: 1px dotted white;
-    width: 85% ;
-    font-size: 80%;
-
-    background-image: url("../images/background.gif");
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: 60px;
-    padding-left: 60px;
-}
-
-footer{
-    text-align: center;
-    margin-top: 200px;
-    font-size: 80%;
-}
-footer  a{
+#guarantee::before {
+    content: "";
+    display: block;
     float: left;
+    background: url('../images/background.gif') no-repeat center center;
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+}
+
+footer {
+    font-size: 0.5em;
 }
