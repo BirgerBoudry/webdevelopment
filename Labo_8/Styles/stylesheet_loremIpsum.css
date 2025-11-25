@@ -1,0 +1,12 @@
+section
+{
+    box-sizing: border-box;
+    border: black solid 1px;
+    width: 50%;
+    padding: 10px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}

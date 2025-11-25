@@ -1,0 +1,18 @@
+section
+{
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+}
+
+section p
+{
+    padding: 10px;
+    margin: 10px;
+    border: black solid 1px;
+}
+
+.links{
+    float: left;
+    clear: both;
+}
