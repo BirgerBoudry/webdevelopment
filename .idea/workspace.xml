@@ -30,27 +30,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.opdracht_4.html.executor": "Run",
-    "JavaScript Debug.opdracht_9.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Labo_10",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Labo_10&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10" />
@@ -59,11 +59,11 @@
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_4\PersonalHomepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_11\css" />
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_11" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10\images" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10\Styles" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_9" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_8\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -108,7 +108,9 @@
       <workItem from="1764681110959" duration="135000" />
       <workItem from="1765053821253" duration="103000" />
       <workItem from="1765278221566" duration="1006000" />
-      <workItem from="1765282925631" duration="1699000" />
+      <workItem from="1765282925631" duration="2420000" />
+      <workItem from="1765883211089" duration="2287000" />
+      <workItem from="1765885621907" duration="443000" />
     </task>
     <servers />
   </component>
