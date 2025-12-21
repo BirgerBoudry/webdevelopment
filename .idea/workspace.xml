@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -59,11 +59,11 @@
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_4\PersonalHomepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_12" />
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_12\images" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_11\css" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_11" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10\images" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10\Styles" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -111,6 +111,7 @@
       <workItem from="1765282925631" duration="2420000" />
       <workItem from="1765883211089" duration="2287000" />
       <workItem from="1765885621907" duration="443000" />
+      <workItem from="1766327173294" duration="1990000" />
     </task>
     <servers />
   </component>
