@@ -1,0 +1,8 @@
+.kleurKnop {
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+}
+.actief {
+    background-color: blue;
+}
