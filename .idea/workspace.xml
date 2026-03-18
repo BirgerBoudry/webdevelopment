@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Labo_15&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -54,8 +54,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_15" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment" />
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_15" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_10" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_7\Images" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_7" />
@@ -125,6 +125,9 @@
       <workItem from="1772563405112" duration="2300000" />
       <workItem from="1772618623504" duration="4384000" />
       <workItem from="1773179959088" duration="2055000" />
+      <workItem from="1773224607051" duration="4126000" />
+      <workItem from="1773770042117" duration="1865000" />
+      <workItem from="1773823456159" duration="153000" />
     </task>
     <servers />
   </component>

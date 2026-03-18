@@ -1,0 +1,7 @@
+.invalid {
+    border: 2px solid red;
+}
+span {
+    color: red;
+    margin-left: 10px;
+}
