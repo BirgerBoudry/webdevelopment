@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Colorpicker</title>
+    <link href="Styles/stylesheet_colorpicker_uitbreiding.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="color-picker">
+    <div class="sliders">
+        <label>0<input type="range" min="0" max="255" id="red" value="128">255<span id="txtOutput1">Red </span></label>
+        <label>0<input type="range" min="0" max="255" id="green" value="255">255<span id="txtOutput2">Green </span></label>
+        <label>0<input type="range" min="0" max="255" id="blue" value="128">255<span id="txtOutput3">Blue </span></label>
+    </div>
+    <div class="color-box" id="colorBox"></div>
+</div>
+<button id="saveBtn">Save</button>
+<div id="savedColors"></div>
+
+<script src="Scripts/script_colorpicker_uitbreiding.js"></script>
+</body>
+</html>
