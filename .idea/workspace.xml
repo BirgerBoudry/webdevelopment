@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Sem2/Labo_18/Styles",
+    "last_opened_file_path": "C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Sem2",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,18 +54,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_18\Styles" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_18\Scripts" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_18" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_15" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_19\Images" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem1" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_18\Scripts" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_18" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_16" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -129,7 +129,8 @@
       <workItem from="1773770042117" duration="1865000" />
       <workItem from="1773823456159" duration="2156000" />
       <workItem from="1773834628332" duration="419000" />
-      <workItem from="1774375432842" duration="4375000" />
+      <workItem from="1774375432842" duration="5235000" />
+      <workItem from="1774988418312" duration="1179000" />
     </task>
     <servers />
   </component>
