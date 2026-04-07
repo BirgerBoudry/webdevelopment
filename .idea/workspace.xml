@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -31,27 +31,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.opdracht_4.html.executor": "Run",
-    "JavaScript Debug.opdracht_9.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Sem2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Birger/OneDrive - Hogeschool VIVES/school-25-26/Web Development/webdevelopment/Sem2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2" />
@@ -61,11 +61,11 @@
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_20\Styles" />
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_20\Scripts" />
+      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_20" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2\Labo_19\Images" />
       <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem2" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Sem1" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_18\Scripts" />
-      <recent name="C:\Users\Birger\OneDrive - Hogeschool VIVES\school-25-26\Web Development\webdevelopment\Labo_18" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -130,7 +130,9 @@
       <workItem from="1773823456159" duration="2156000" />
       <workItem from="1773834628332" duration="419000" />
       <workItem from="1774375432842" duration="5235000" />
-      <workItem from="1774988418312" duration="1179000" />
+      <workItem from="1774988418312" duration="1286000" />
+      <workItem from="1775034353629" duration="5640000" />
+      <workItem from="1775554125990" duration="2484000" />
     </task>
     <servers />
   </component>
